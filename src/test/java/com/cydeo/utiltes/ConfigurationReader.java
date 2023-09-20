@@ -1,2 +1,5 @@
-package com.cydeo.utiltes;public class ConfigurationReader {
+package com.cydeo.utiltes;
+
+public class ConfigurationReader {
+
 }
